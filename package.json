@@ -1,0 +1,13 @@
+{
+  "name": "eslint-plugin-example",
+  "version": "0.0.1",
+  "description": "Create your own custom ESLint Rules",
+  "main": "src/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
