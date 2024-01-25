@@ -63,6 +63,7 @@ Create custom rule that only `"bar"` should be the value for any `const foo` var
 `src/rules/enforce-foo-bar.js`
 
 ```js
+/** @type import('eslint').Rule.RuleModule */
 module.exports = {
     meta: {
         type: 'problem',
